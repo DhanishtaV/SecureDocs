@@ -1,0 +1,1 @@
+Secret collaboration file content for RBAC testing.
